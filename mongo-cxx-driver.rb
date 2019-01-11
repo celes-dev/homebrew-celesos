@@ -1,5 +1,5 @@
 class MongoCxxDriver < Formula
-  desc "EOSIO C++ driver for MongoDB"
+  desc "CELESOS C++ driver for MongoDB"
   homepage "https://github.com/mongodb/mongo-cxx-driver"
   url "https://github.com/mongodb/mongo-cxx-driver/archive/r3.4.0.tar.gz"
   sha256 "e9772ac5cf1c996c2f77fd78e25aaf74a2abf5f3864cb31b18d64955fd41c14d"

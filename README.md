@@ -1,2 +1,2 @@
-# homebrew-eosio
-homebrew tap for EOSIO
+# homebrew-celesos
+homebrew tap for CELESOS
