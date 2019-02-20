@@ -2,8 +2,8 @@ class Celesos < Formula
 
    homepage "https://github.com/celes-dev/celesos"
    revision 0
-   url "https://github.com/celes-dev/celesos/archive/v1.5.1.tar.gz"
-   version "1.5.1"
+   url "https://github.com/celes-dev/celesos/archive/v1.6.1.tar.gz"
+   version "1.6.1"
    
    option :universal
 
@@ -16,8 +16,8 @@ class Celesos < Formula
    depends_on :arch =>  :intel
   
    bottle do
-      root_url "https://github.com/celes-dev/celesos/releases/download/v1.5.1"
-      sha256 "622b15c47b8ce1113cca3d483322d07d2e4f0954d17f12ccf61ed084f88079ed" => :mojave
+      root_url "https://github.com/celes-dev/celesos/releases/download/v1.6.1"
+      sha256 "adaeeed2e86fbcc569d198f9e63cdf47e08f6e0cf0ca798b1aeb47c8bf4cf74d" => :mojave
    end
    def install
       raise "Error, only supporting binary packages at this time"
